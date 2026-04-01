@@ -1,4 +1,4 @@
-# EACL 2026 official website
+# EACL 2027 official website
 
 This is the code for the official website for the 2027 Conference of the European Chapter of the Association for Computational Linguistics (EACL).
 
