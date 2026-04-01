@@ -59,3 +59,5 @@ where `aclconfsite` is the docker tag for our image. After that command complete
 docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll aclconfsite
 ```
 
+This will start up the website at port 4000 on localhost.
+
