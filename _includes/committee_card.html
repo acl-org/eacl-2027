@@ -1,0 +1,14 @@
+<div class="committee-card" style="display:flex;align-items:center;gap:1rem;">
+  <img src="{{ include.photo }}" alt="{{ include.name }}" loading="lazy" decoding="async"
+       style="width:96px;height:96px;border-radius:9999px;object-fit:cover;border:2px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.08);" />
+  <div class="committee-card__text" style="flex:1 1 auto;">
+    <div class="committee-card__name" style="font-weight:700;font-size:1.125rem;line-height:1.2;">
+      {% if include.url %}<a href="{{ include.url }}">{{ include.name }}</a>{% else %}{{ include.name }}{% endif %}
+    </div>
+    {% if include.affiliation %}
+    <div class="committee-card__affil" style="margin-top:.125rem;line-height:1.35;">
+      {{ include.affiliation }}
+    </div>
+    {% endif %}
+  </div>
+</div>

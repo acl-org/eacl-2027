@@ -1,0 +1,66 @@
+{% if site.logo contains "://" %}
+  {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% else %}
+  {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% endif %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation.main -%}
+            {%- if link.url contains '://' -%}
+              {%- assign url = link.url -%}
+            {%- else -%}
+              {%- assign url = link.url | relative_url -%}
+            {%- endif -%}
+            <li class="masthead__menu-item">
+              {%- if link.highlight -%}
+                <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %} target="_blank" rel="nofollow noopener noreferrer" class="external-link">
+                  {{ link.title }}
+                  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15" height="15" viewBox="0 0 512 512" xml:space="preserve">
+                    <g>
+                      <g>
+                        <path
+                          d="M488.727,0H302.545c-12.853,0-23.273,10.42-23.273,23.273c0,12.853,10.42,23.273,23.273,23.273h129.997L192.999,286.09
+                        c-9.089,9.089-9.089,23.823,0,32.912c4.543,4.544,10.499,6.816,16.455,6.816c5.956,0,11.913-2.271,16.457-6.817L465.455,79.458
+                        v129.997c0,12.853,10.42,23.273,23.273,23.273c12.853,0,23.273-10.42,23.273-23.273V23.273C512,10.42,501.58,0,488.727,0z" />
+                      </g>
+                    </g>
+                    <g>
+                      <g>
+                        <path d="M395.636,232.727c-12.853,0-23.273,10.42-23.273,23.273v209.455H46.545V139.636H256c12.853,0,23.273-10.42,23.273-23.273
+                        S268.853,93.091,256,93.091H23.273C10.42,93.091,0,103.511,0,116.364v372.364C0,501.58,10.42,512,23.273,512h372.364
+                        c12.853,0,23.273-10.42,23.273-23.273V256C418.909,243.147,408.489,232.727,395.636,232.727z" />
+                      </g>
+                    </g>
+                  </svg>
+                </a>
+              {%- else -%}
+                <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}{%- if link.url contains '://' -%}<img src={{ "assets/images/external.svg" | absolute_url }}/>{% endif %}</a>
+              {% endif %}
+            </li>
+          {%- endfor -%}
+        </ul>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

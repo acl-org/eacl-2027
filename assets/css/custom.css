@@ -1,0 +1,51 @@
+.sidebar .nav__sub-title,
+.sidebar__right .nav__sub-title,
+.sidebar__left .nav__sub-title,
+.nav__list .nav__sub-title{
+  font-size: 1.1rem !important;      
+  font-weight: 800 !important;
+  letter-spacing: .03em;
+
+  margin-top: 2rem !important;       
+  padding-top: .6rem !important;
+
+  border-bottom: 1px solid #e5e7eb !important;
+  padding-bottom: .6rem !important;
+  margin-bottom: .9rem !important;
+}
+
+
+.nav__list > ul > li:first-child .nav__sub-title{
+  margin-top: .8rem !important;
+}
+/* Only for /program/ page (Program overview) */
+.layout--single .page__content .program-overview td:first-child {
+  vertical-align: top;
+  padding-top: 0.35rem;
+}
+
+
+/* Force more space in Participant Information sidebar */
+.sidebar .nav__list .nav__items li,
+.sidebar__right .nav__list .nav__items li,
+.sidebar__left .nav__list .nav__items li {
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.sidebar .nav__list .nav__items a,
+.sidebar__right .nav__list .nav__items a,
+.sidebar__left .nav__list .nav__items a {
+  display: block !important;
+  line-height: 1.45 !important;
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+}
+
+/* Nested items under Venue */
+.sidebar .nav__list .nav__items ul li,
+.sidebar__right .nav__list .nav__items ul li,
+.sidebar__left .nav__list .nav__items ul li {
+  margin-top: 0.55rem !important;
+  margin-bottom: 0.55rem !important;
+}

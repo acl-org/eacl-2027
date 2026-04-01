@@ -1,0 +1,178 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// global variables
+
+@charset "utf-8";
+
+$line-height: 1.6em;
+$border-radius: 6px;
+$left-sidebar-width: 200px;
+$doc-font-size: 14px; 
+
+// setting the color for some links and headers
+$gray-headers-color: #2B2D38;
+
+// setting the background for header and footer
+$gray-background: #F1F2FA;
+
+// overriding the links color
+$link-color: #5F8BFA;
+$link-color-visited: #5F8BFA;
+
+// changing the text color
+$text-color: #1A3356;
+
+// overriding the default gray color of the background
+$background-color: #FFFFFF;
+
+/* editing the border color everywhere - deleting it from the masthead
+and changing its color to match the design */
+.masthead {
+  border-bottom: none !important;
+}
+$border-color: #E3E6F2;
+td {
+  border-color: $border-color !important;
+}
+
+// changing the fonts
+$sans-serif: Roboto;
+$global-font-family: "Roboto";
+$header-font-family: "Circular";
+$caption-font-family: "Roboto";
+$sans-serif-narrow: "Roboto";
+
+$type-size-3: 1.66em;
+$type-size-4: 1.66em;
+$type-size-5: 1em;
+$type-size-6: 0.92em;
+$type-size-7: 0.8em;
+$type-size-8: 0.58em;
+
+// editing the footer
+
+$footer-background-color: $gray-background;
+$masthead-link-color: $gray-headers-color;
+
+// Setting the maximum width of the page to appropriately match the design
+$page-max-width: 904px;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+@import "kyiv";
+@import "masthead";
+@import "sidebar";
+@import "layout";
+@import "table";
+@import "hero";
+@import "keynotes";
+@import "schedule";
+@import "buttons";
+@import "inputs";
+@import "cards";
+
+
+/* Committee cards */
+.committee-list {
+  margin: 0;
+  padding: 0;
+}
+
+.committee-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e5e7eb; /* subtle divider */
+}
+
+.committee-card:last-child {
+  border-bottom: 0;
+}
+
+.committee-card img {
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #eef2f7; /* light ring */
+}
+
+.committee-card__name {
+  font-weight: 700;
+  font-size: 1.25rem; /* ~20px */
+  line-height: 1.2;
+  margin-bottom: 2px;
+}
+
+.committee-card__name a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.committee-card__name a:hover {
+  text-decoration: underline;
+}
+
+.committee-card__affil {
+  color: #6b7280; /* gray-500 */
+  font-size: 1rem;
+}
+/* --- Organizing Committee Layout --- */
+.committee-list {
+  display: grid;
+  /* This creates columns that are at least 250px wide */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem; /* This adds space between the cards */
+  margin-bottom: 2rem; /* Adds space below each group */
+}
+/* Show full name and affiliation (no truncation) */
+.committee-card__name,
+.committee-card__affil { white-space: normal; overflow: visible; text-overflow: unset; }
+
+/* Optional: make cards a bit wider so long affiliations look nice */
+.committee-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 1.25rem; }
+/* Make the navbar logo bigger */
+.site-logo img {
+  max-height: 2.5rem;   /* try 3.0–4.0rem and adjust to taste */
+}
+
+/* Optional: on very small screens, keep it a bit smaller */
+@media (max-width: 600px) {
+  .site-logo img {
+    max-height: 2rem;
+  }
+}
+
+
+/* --- GLOBAL FONT ADJUSTMENTS --- */
+
+/* 1. Reset Root Size (Keep titles large) */
+html {
+  font-size: 100% !important; /* Ensures titles stay at default size */
+}
+
+/* 2. Shrink ONLY the content text (Paragraphs, Lists, Tables) */
+body, p, li, td, th, div {
+  font-size: 18px !important; /* Adjust this number to make text smaller */
+  line-height: 1.5 !important; /* Condensed spacing */
+}
+
+/* 3. Compact Tables */
+table {
+  width: 100%;
+}
+td, th {
+  padding: 6px 10px !important; /* Reduces whitespace inside cells */
+}
+
+/* 4. Ensure Headings remain large and distinct */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+  line-height: 1.25 !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.5em !important;
+}

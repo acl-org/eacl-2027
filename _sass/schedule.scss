@@ -1,0 +1,150 @@
+$title-padding: 1rem;
+$title-line-height: 1.83rem;
+$title-middle: $title-padding + $title-line-height / 2;
+
+.schedule-header {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -2rem;
+
+  .btn,
+  select {
+    margin-bottom: 0;
+    padding: 0.4em 1em;
+  }
+
+  .time-control,
+  .action-buttons {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 2rem;
+  }
+}
+
+.time-control {
+  margin-right: auto;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+
+  span {
+    margin-right: 1rem;
+  }
+
+  select {
+    flex: 1;
+  }
+
+  &:only-child {
+    select {
+      max-width: 20rem;
+    }
+  }
+}
+
+.schedule-element {
+  margin: 1rem 0;
+}
+
+.schedule-element-content {
+  background: $gray-background;
+
+  >ul {
+    li {
+      margin: 1rem 0;
+    }
+  }
+}
+
+.schedule {
+  h3 {
+    margin: 1rem 0;
+  }
+
+  ul {
+    margin: 0 0 1rem 0;
+
+    &.list--small-padding {
+      padding-inline-start: 1rem;
+    }
+  }
+}
+
+.schedule-element-title {
+  margin: 0;
+  outline: none;
+  display: block;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: $title-padding;
+  background-color: #d6d6d6;
+  border: none;
+  color: #000000;
+  line-height: $title-line-height;
+  transition: all 0.4s;
+
+  a {
+    color: #000000;
+  }
+
+  &.collapse-toggle-button {
+
+    &:hover,
+    &:focus {
+      outline: none;
+      background-color: #ececec;
+    }
+  }
+
+  @media (min-width: $small) {
+    flex-direction: row;
+  }
+}
+
+.time-wrapper {
+  white-space: nowrap;
+  font-weight: 700;
+  min-width: 7rem;
+}
+
+.element-inner-wrapper {
+  padding: 1rem 2rem;
+}
+
+.subitem-title {
+  margin: 0.5rem 0;
+  font-weight: 700;
+  text-align: left;
+  display: block;
+  width: 100%;
+  padding: 0.5rem 0;
+}
+
+.schedule-header-container {
+  overflow-x: hidden;
+}
+
+.schedule-element-title.collapse-toggle-button {
+  padding-right: 3rem;
+  position: relative;
+
+  &::after {
+    transition: all 0.5s;
+    content: "";
+    background-image: url("../images/arrow-down.svg");
+    background-size: 1rem 1rem;
+    width: 1rem;
+    height: 1rem;
+    position: absolute;
+    right: $title-padding;
+    top: $title-middle;
+    transform: translateY(-50%) rotate(0);
+  }
+
+  &.expanded::after {
+    transform: translateY(-50%) rotate(180deg);
+  }
+}
