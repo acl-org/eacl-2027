@@ -234,7 +234,7 @@ h3 + .committee-list {
   {% endunless %}
 {% endfor %}
 
-## Contact
+<!-- ## Contact
 
 **📞 Looking for a specific contact? Visit our [Complete Contact Directory](/committees/contact-directory/)** for a comprehensive list of all EACL 2026 email contacts organized by category.
 
@@ -246,4 +246,4 @@ h3 + .committee-list {
 - Paper commitment & program: [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com)
 - All other questions: [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com)
 - **Visa invitation letters**: See [Visa Page](/participants/visa/)
-- **Registration questions**: See [Registration Page](/registration/)
+- **Registration questions**: See [Registration Page](/registration/) -->
