@@ -20,19 +20,20 @@ locale                   : "en-US"
 title                    : " "
 title_separator          : "-"
 name                     : "EACL"
-description              : "Official website for the 2026 Conference of the European Chapter of the Association for Computational Linguistics"
-url                      : "https://2026.eacl.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+conference_year          : 2027
+description              : "Official website for the 2027 Conference of the European Chapter of the Association for Computational Linguistics"
+url                      : "https://2027.eacl.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/eacl-2026" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "acl-org/eacl-2027" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/EACL2026_logo_website-high-res.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/eacl_2027_logo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "eacl2026"
+    shortname            : "eacl2027"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -62,7 +63,7 @@ facebook:
   username               : eacl
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/og-image.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og-image_eacl_2027.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -116,7 +117,7 @@ footer:
       # url: https://www.facebook.com/eacl2021
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/eacl-2026
+      url: https://github.com/acl-org/eacl-2027
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
