@@ -4,6 +4,7 @@ layout: single
 permalink: /registration/
 sidebar:
   nav: "registration"
+published: false
 ---
 <style>
   /* Base text adjustments */

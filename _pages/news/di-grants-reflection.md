@@ -3,6 +3,7 @@ title: "Reflections on the EACL 2026 D&I Grants"
 layout: single
 permalink: /news/di-grants-reflection/
 toc: false
+published: false
 
 ---
 

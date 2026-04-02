@@ -4,6 +4,7 @@ layout: single
 permalink: /participants/visa/
 sidebar:
   nav: attending   # or whatever sidebar key you use for Participant Information
+published: false
 ---
 
 <style>

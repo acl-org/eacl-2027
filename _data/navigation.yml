@@ -2,181 +2,25 @@
 main:
   - title: "Calls"
     url: /calls/papers/
-  - title: "Committees"
+  - title: "Committee"
     url: /committees/organization/
   - title: "Participant Information"
     url: /participants/venue/
-  - title: "Registration"
-    url: /registration/
-  - title: "Program"
-    url: /program/
-  - title: "Sponsors"
-    url: /sponsors/
 
 attending:
   - title: Information For
     children:
       - title: Venue
         url: /participants/venue/
-        children:
-          - title: Conference Venue
-            url: /participants/venue/#conference-venue
-          - title: Accommodations
-            url: /participants/venue/#accommodations
-          - title: Student Accommodations
-            url: /participants/venue/#student-accommodations
-      - title: Transportation/Travel
-        url: /participants/travel/
-        children:
-          - title: Travel & Transport
-            url: /participants/travel/#travel--transport
-          - title: City Transportation
-            url: /participants/travel/#city-transportation
-          - title: Venue/Hotel Shuttle Transportation
-            url: /participants/travel/#venuehotel-shuttle-transportation
-      - title: About Rabat
-        url: /participants/about-rabat/
-        children:
-          - title: About Rabat
-            url: /participants/about-rabat/#about-rabat
-          - title: Language
-            url: /participants/about-rabat/#language
-          - title: Weather
-            url: /participants/about-rabat/#weather
-          - title: Currency
-            url: /participants/about-rabat/#currency
-          - title: Power Plugs/Outlets
-            url: /participants/about-rabat/#power-plugsoutlets
-          - title: Clothing
-            url: /participants/about-rabat/#clothing
-          - title: Walking
-            url: /participants/about-rabat/#walking
-          - title: Water
-            url: /participants/about-rabat/#water
-          - title: Local Customs
-            url: /participants/about-rabat/#local-customs-dos-and-donts-in-morocco
-          - title: Tipping
-            url: /participants/about-rabat/#tipping
-          - title: Things to Do
-            url: /participants/about-rabat/#things-to-do-in-rabat
-          - title: In Case of Emergency
-            url: /participants/about-rabat/#in-case-of-an-emergency
-      - title: Half Day Guided Sightseeing Tour
-        url: /participants/half-day-guided-sightseeing-tour-of-rabat/
-      - title: One-Day Tours from Rabat
-        url: /participants/one-day-tours-from-rabat/
-      - title: Visa
-        url: /participants/visa/
-      - title: Poster Printing
-        url: /participants/poster-printing/
-      - title: Presentation Guidelines
-        url: /program/oral-poster/
-      - title: Contact Directory
-        url: /committees/contact-directory/
-program:
-  - title: "PROGRAMS"
-    children:
-      - title: "Conference Overview"
-        url: /program/
-      - title: "Presentation Guidelines"
-        url: /program/oral-poster/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
-  - title: "ACCEPTED"
-    children:
-      - title: "Main Conference Papers"
-        url: /program/main-accepted/
-      - title: "Findings Papers"
-        url: /program/findings-accepted/
-      - title: "TACL Papers"
-        url: /program/tacl-papers/
-      - title: "CL Papers"
-        url: /program/cl-papers/
-      - title: "Industry Track Papers"   
-        url: /program/industry-accepted/
-      - title: "Student Research Workshop Papers"
-        url: /program/srw-accepted/          
-      - title: "Best Paper Awards"
-        url: /program/best-paper/
-  - title: "EVENTS"
-    children:
-      - title: "Keynote Speakers"
-        url: /program/keynotes/
-      - title: "Social Event"
-        url: /program/social-event/
-      - title: "Birds of Feather"
-        url: /program/birds-of-feather/
-        
-
-
-registration:
-  - title: Registration Information
-    children:
-      - title: Registration Tiers
-        url: /registration/#registration-tiers
-      - title: Author Registration Details
-        url: /registration/#author-registration-details
-      - title: Subsidies & Regional Waivers
-        url: /registration/#Subsidies-and-Regional-Waivers
-      - title: Registration Inclusions
-        url: /registration/#registration-inclusions
-      - title: Membership Policies
-        url: /registration/#membership-policy
-      - title: In-Person Rates
-        url: /registration/#in-person-rates
-      - title: Virtual Rates
-        url: /registration/#virtual-rates
-      - title: Cancelation Policy
-        url: /registration/#cancellation-policy
-      - title: Code of Ethics
-        url: /registration/#code-of-ethics
-      - title: Anti Harassment Policy
-        url: /registration/#anti-harassment-policy
 
 calls:
   - title: Call for
     children:
       - title: "Main Conference Papers"
         url: /calls/papers/
-        children:
-          - title: "Contact information"
-            url: /committees/contact-directory/
-      - title: "Student Research Workshop"
-        url: /calls/srw/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Workshops"
-        url: /calls/workshops/
-      - title: "Industry Track"
-        url: /calls/industry/
-      - title: "Tutorials"
-        url: /calls/tutorials/
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/d-i-subsidies/
-      - title: "Virtual Registration Subsidies"    
-        url: /calls/virtual-subsidies/             
-      - title: "Student Volunteers"
-        url: /calls/student-volunteers/
-      - title: "Shared Interest & Affinity Groups (BoF)"
-        url: /calls/bof/
 
-
-ethics:
-  - title: Ethics
-    children:
-      - title: "Ethics FAQ"
-        url: /ethics/faq/
-      - title: "Ethics Review Questions"
-        url: /ethics/review-questions/
-
-committees:
-  - title: Committees
+committee:
+  - title: Committee
     children:
       - title: "Organizing"
         url: /committees/organization/
-      - title: "Senior Program"
-        url: /committees/senior/
-      - title: "Contact information"
-        url: /committees/contact-directory/
