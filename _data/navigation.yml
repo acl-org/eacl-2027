@@ -7,12 +7,6 @@ main:
   - title: "Participant Information"
     url: /participants/venue/
 
-attending:
-  - title: Information For
-    children:
-      - title: Venue
-        url: /participants/venue/
-
 calls:
   - title: Call for
     children:
@@ -24,3 +18,9 @@ committee:
     children:
       - title: "Organizing"
         url: /committees/organization/
+
+attending:
+  - title: Information For
+    children:
+      - title: Venue
+        url: /participants/venue/
