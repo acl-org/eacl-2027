@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "EACL Oganizers"
+  name             : "EACL Organizers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Official organizers for EACL 2027."
   location         : "Somewhere"
   email            :
   links:

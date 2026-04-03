@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "EACL 2026 organizing committee."
+excerpt: "EACL 2027 organizing committee."
 permalink: /committees/organization/
 sidebar:
   nav: committees
@@ -96,7 +96,7 @@ h3 + .committee-list {
 {% comment %} ED&I contact line (preferred loop) {% endcomment %}
 {% if r == "ED&I" or r == "Diversity and Inclusion" %}
 <p class="committee-contact">
-  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+  Contact: <a href="mailto:eacl2027deichairs@gmail.com">eacl2027deichairs@gmail.com</a>
 </p>
 <div class="heading-divider"></div>
 {% endif %}
@@ -202,7 +202,7 @@ h3 + .committee-list {
 {% comment %} ED&I contact line (remaining-groups loop) {% endcomment %}
 {% if g.name == "ED&I" or g.name == "Diversity and Inclusion" %}
 <p class="committee-contact">
-  Contact: <a href="mailto:eacl2026deichairs@gmail.com">eacl2026deichairs@gmail.com</a>
+  Contact: <a href="mailto:eacl2027deichairs@gmail.com">eacl2027deichairs@gmail.com</a>
 </p>
 {% endif %}
 
@@ -236,14 +236,14 @@ h3 + .committee-list {
 
 <!-- ## Contact
 
-**📞 Looking for a specific contact? Visit our [Complete Contact Directory](/committees/contact-directory/)** for a comprehensive list of all EACL 2026 email contacts organized by category.
+**📞 Looking for a specific contact? Visit our [Complete Contact Directory](/committees/contact-directory/)** for a comprehensive list of all EACL 2027 email contacts organized by category.
 
 - **General Chair**: [Aline Villavicencio](https://sites.google.com/view/alinev)
 - **Program Chairs**: [Vera Demberg](https://www.uni-saarland.de/en/lehrstuhl/demberg.html), [Kentaro Inui](https://kentaro-inui.github.io/), Lluís Marquez Villodre
 
 **Quick Contact Guide:**
 - Paper submission questions: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
-- Paper commitment & program: [eacl26-pcs@googlegroups.com](mailto:eacl26-pcs@googlegroups.com)
-- All other questions: [eacl2026.contact@gmail.com](mailto:eacl2026.contact@gmail.com)
+- Paper commitment & program: [eacl27-pcs@googlegroups.com](mailto:eacl27-pcs@googlegroups.com)
+- All other questions: [eacl2027.contact@gmail.com](mailto:eacl2027.contact@gmail.com)
 - **Visa invitation letters**: See [Visa Page](/participants/visa/)
 - **Registration questions**: See [Registration Page](/registration/) -->
