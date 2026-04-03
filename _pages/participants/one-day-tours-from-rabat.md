@@ -7,6 +7,7 @@ sidebar:
   nav: attending
 toc: true
 toc_title: "On this page"
+published: false
 ---
 
 <h1>One-Day Tours from Rabat</h1>

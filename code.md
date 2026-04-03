@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 layout: single
-excerpt: "EACL 2024 Code of Conduct."
+excerpt: "EACL 2027 Code of Conduct."
 permalink: /code/
 ---
 

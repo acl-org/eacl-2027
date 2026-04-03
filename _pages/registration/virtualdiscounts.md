@@ -6,6 +6,7 @@ permalink: /virtualdiscounts
 sidebar:
   nav: registration
 toc: false
+published: false
 ---
 
 **The application form and deadlines for EACL 2026 discounted virtual registration will be announced closer to the conference dates. The general criteria are outlined below.**

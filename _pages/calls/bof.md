@@ -6,6 +6,7 @@ sidebar:
   nav: calls
 toc: true
 toc_title: "On this page"
+published: false
 ---
 
 ## Call for Shared Interest and Affinity Group Events (also known as Birds-of-a-Feather Events[^bof])

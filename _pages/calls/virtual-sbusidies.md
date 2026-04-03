@@ -6,6 +6,7 @@ sidebar:
   nav: calls
 toc: true
 toc_sticky: true
+published: false
 ---
 
 Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. The criteria for selection for financial aid will include your:

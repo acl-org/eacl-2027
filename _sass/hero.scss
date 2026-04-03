@@ -2,7 +2,11 @@
 .page__hero {
 
   &-caption {
-    display: none;
+    display: block; // was none
+    text-align: right;
+    font-size: 0.75em;
+    color: #fff;
+    padding: 5px;
   }
 
   &--overlay {
@@ -23,6 +27,8 @@
       text-align: right;
       color: #fff;
       margin: 0;
+      transform: translateY(30px);
+      text-shadow: 2px 4px 12px rgba(0, 0, 0, 0.9), 0px 2px 6px rgba(0, 0, 0, 0.8);
       line-height: 1.5;
       font-family: "Circular";
       font-size: 1.5em;

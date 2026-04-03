@@ -6,6 +6,7 @@ permalink: /committees/senior/
 sidebar:
   nav: committees
 toc: false
+published: false
 ---
 
 <style>
