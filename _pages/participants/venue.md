@@ -37,7 +37,13 @@ toc_label: "On this page"
 </style>
 
 
-TBA!
+<!-- <h1>Athens, Greece: Venue & Accommodation</h1> -->
+
+*The exact conference venue is currently being finalized and will be announced soon.*
+
+We are excited to host EACL 2027 in the historic and vibrant city of Athens. Our local organizers are actively working to secure an accessible and engaging environment for our community to gather and share ideas.
+
+Information on the conference location, nearby accommodation options, and general travel logistics will be provided on this page in the coming months. We look forward to welcoming you to Greece!
 
 <style>
   /* 1. Target the List Items (The rows) */

@@ -3,21 +3,25 @@ title: "<br>The&nbsp;20th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/new_header_eacl_2027.jpg"
-  caption: 'Temporary image for EACL 2027.'
+  overlay_image: "/assets/images/athens_panorama_cropped.jpg"
+  caption: 'Image by [dronepicr](https://www.flickr.com/photos/132646954@N02/44149181684/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). *Image was cropped.*'
 excerpt: "<br/><br/>"
 ---
 
 ## Welcome!
 
-Welcome to the 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2027 will be held in Athens, Greece, from March 9–14, 2027. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas concerned with computational approaches to natural language. Here are some of our events and news.
+Welcome to the 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL). EACL 2027 will proudly be hosted in the historic and vibrant city of Athens, Greece, from March 9–14, 2027.
+
+As the flagship European conference in the field of computational linguistics, EACL brings together an international community of researchers and practitioners covering a broad spectrum of computational approaches to natural language. We look forward to gathering together to share ideas, present cutting-edge research, and forge scientific connections. 
+
+Here are some of our exciting events and latest news.
 
 
 ## News
 
 <div class="notice--info" markdown="1">
   <h2 id="system-track">We're live!</h2>
-  The EACL 2027 website is now live! Check back here for updates on the conference, including important dates, calls for papers and more.
+  The EACL 2027 website is now officially live. Please check back regularly for updates concerning the conference, important dates, calls for papers, venue specifics, and more.
 </div>
 
 
