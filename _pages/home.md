@@ -3,8 +3,8 @@ title: "<br>The&nbsp;20th&nbsp;Conference of&nbsp;the&nbsp;European&nbsp;Chapter
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/athens_panorama_cropped.jpg"
-  caption: 'Image by [dronepicr](https://www.flickr.com/photos/132646954@N02/44149181684/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). *Image was cropped.*'
+  overlay_image: "/assets/images/athens_panorama.jpg"
+  caption: 'Image by [dronepicr](https://www.flickr.com/photos/132646954@N02/44149181684/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).'
 excerpt: "<br/><br/>"
 ---
 
