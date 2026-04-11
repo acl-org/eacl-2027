@@ -6,6 +6,7 @@ permalink: /program/invited/
 sidebar:
   nav: program
 toc: false
+published: false
 ---
 
 <h1>Invited Speakers</h1>

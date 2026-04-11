@@ -6,6 +6,7 @@ permalink: /program/main/
 sidebar:
   nav: program
 toc: false
+published: false
 ---
 
 <h1>EACL 2026 Program of Events</h1>

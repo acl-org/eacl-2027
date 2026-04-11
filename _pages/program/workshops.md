@@ -4,6 +4,7 @@ layout: single
 permalink: /program/workshops/
 sidebar:
   nav: program
+published: false
 ---
 
 ## Saturday, March 28, 2026

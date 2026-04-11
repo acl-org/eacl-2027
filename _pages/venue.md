@@ -6,6 +6,7 @@ permalink: /venue
 sidebar:
   nav: venue
 toc: false
+published: false
 ---
 
 <!-- <h1>Conference Venue</h1> -->

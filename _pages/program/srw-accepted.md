@@ -6,6 +6,7 @@ sidebar:
   nav: program
 toc: true
 toc_sticky: true
+published: false
 ---
 
 * **From Sentences to Proof Trees: Leveraging Language Models for Structured Reasoning**  
