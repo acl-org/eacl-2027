@@ -1,8 +1,12 @@
 <div class="committee-card" style="display:flex;align-items:center;gap:1rem;">
   {% assign http_check = include.photo | slice: 0, 4 %}
   {% if http_check == 'http' %}
-    {% assign photo_encoded = include.photo | url_encode %}
-    {% capture photo_url %}https://wsrv.nl/?url={{ photo_encoded }}&w=192&h=192&fit=cover{% endcapture %}
+    {% if include.photo contains 'google' %}
+      {% assign photo_url = include.photo %}
+    {% else %}
+      {% assign photo_encoded = include.photo | url_encode %}
+      {% capture photo_url %}https://wsrv.nl/?url={{ photo_encoded }}&w=192&h=192&fit=cover{% endcapture %}
+    {% endif %}
   {% else %}
     {% assign photo_url = include.photo %}
   {% endif %}
