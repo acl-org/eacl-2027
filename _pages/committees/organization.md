@@ -49,7 +49,7 @@ h3 + .committee-list {
       {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
       {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
       {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
-      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Chair" %}
       {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
       {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
     {% endcase %}
@@ -89,6 +89,9 @@ h3 + .committee-list {
       {% assign _last_word = heading | split: ' ' | last %}
       {% if _last_word == "Chair" %}
         {% assign heading = heading | append: "s" %}
+      {% endif %}
+      {% if heading contains "Advisor" %}
+        {% assign heading = heading | replace: "Advisor", "Advisors" %}
       {% endif %}
     {% endif %}
 
@@ -153,7 +156,7 @@ h3 + .committee-list {
       {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
       {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
       {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
-      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Chair" %}
       {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
       {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
     {% endcase %}
@@ -192,6 +195,9 @@ h3 + .committee-list {
       {% assign _last_word = heading | split: ' ' | last %}
       {% if _last_word == "Chair" %}
         {% assign heading = heading | append: "s" %}
+      {% endif %}
+      {% if heading contains "Advisor" %}
+        {% assign heading = heading | replace: "Advisor", "Advisors" %}
       {% endif %}
     {% endif %}
 
