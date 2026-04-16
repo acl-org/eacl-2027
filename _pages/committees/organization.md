@@ -49,7 +49,7 @@ h3 + .committee-list {
       {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
       {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
       {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
-      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Chair" %}
       {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
       {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
     {% endcase %}
@@ -153,7 +153,7 @@ h3 + .committee-list {
       {% when "Student SRW" %}{% assign _mapped = "Student Research Workshop Chair" %}
       {% when "Faculty SRW" %}{% assign _mapped = "Faculty Advisor to the Student Research Workshop" %}
       {% when "Communications" %}{% assign _mapped = "Internal Communications Chair" %}
-      {% when "Local" %}{% assign _mapped = "Local Arrangements Chair" %}
+      {% when "Local" %}{% assign _mapped = "Local Chair" %}
       {% when "ED&I" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
       {% when "Diversity and Inclusion" %}{% assign _mapped = "Diversity and Inclusion Chair" %}
     {% endcase %}
