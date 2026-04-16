@@ -90,6 +90,9 @@ h3 + .committee-list {
       {% if _last_word == "Chair" %}
         {% assign heading = heading | append: "s" %}
       {% endif %}
+      {% if heading contains "Advisor" %}
+        {% assign heading = heading | replace: "Advisor", "Advisors" %}
+      {% endif %}
     {% endif %}
 
 ### {{ heading }}
@@ -192,6 +195,9 @@ h3 + .committee-list {
       {% assign _last_word = heading | split: ' ' | last %}
       {% if _last_word == "Chair" %}
         {% assign heading = heading | append: "s" %}
+      {% endif %}
+      {% if heading contains "Advisor" %}
+        {% assign heading = heading | replace: "Advisor", "Advisors" %}
       {% endif %}
     {% endif %}
 
