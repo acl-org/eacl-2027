@@ -4,6 +4,7 @@ layout: single
 permalink: /calls/industry/
 sidebar:
   nav: calls
+published: false
 ---
 
 ## Background

@@ -3,6 +3,7 @@ title: "Conference Update and Travel Guidance for EACL 2026"
 layout: single
 permalink: /news/conference-update-travel-guidance/
 toc: false
+published: false
 ---
 
 We are aware of the uncertainties surrounding the current conflict in the Middle East and understand that many in our global community may be affected in different ways.

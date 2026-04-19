@@ -6,6 +6,7 @@ permalink: /sponsors/
 sidebar:
   nav: sponsors
 toc: false
+published: false
 ---
 
 

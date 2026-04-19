@@ -6,6 +6,7 @@ permalink: /program/social-event/
 sidebar:
   nav: program
 toc: true
+published: false
 ---
 
 <h1>Welcome Reception</h1>
