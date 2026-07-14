@@ -26,7 +26,7 @@ We invite submissions describing innovations and implementations in all areas of
 ## **Important Dates (23:59 AoE)**
 
 * Paper submission deadline:  **11 September 2026**  
-* Reviews released: **21 October 2026**  
+* Reviews released: **28 October 2026**  
 * Rebuttal ends:  **4 November 2026**  
 * Meta Reviews released: **30 November 2026**  
 * Notification of acceptance: **18 December 2026**  
