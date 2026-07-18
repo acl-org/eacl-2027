@@ -130,6 +130,11 @@ Authors are advised to review all calls for papers and submit to the call that b
 
 If you still need help deciding, feel free to reach out to the track chairs.
 
+## **Volunteer to Review**
+
+Please fill in the form below to express your interest in volunteering as a reviewer for EACL 2027 Industry Track. 
+[https://forms.gle/TT6N2gtuoV5P3oYi6](https://forms.gle/TT6N2gtuoV5P3oYi6)
+
 ## **Chairs and Contact**
 
 * Matthias Gallé (Poolside)  
