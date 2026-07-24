@@ -16,6 +16,8 @@ calls:
         url: /calls/papers/
       - title: "Industry Track"
         url: /calls/industry/
+      - title: "Workshops"
+        url: /calls/workshops/
 
 committee:
   - title: Committee
