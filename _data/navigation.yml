@@ -16,6 +16,8 @@ calls:
         url: /calls/papers/
       - title: "Industry Track"
         url: /calls/industry/
+      - title: "System Demonstrations"
+        url: /calls/demos/
       - title: "Workshops"
         url: /calls/workshops/
 

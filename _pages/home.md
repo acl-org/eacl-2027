@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="system-demonstrations-call-for-papers">System Demonstrations Call for Papers</h2>
+  The <a href="{{ '/calls/demos/' | relative_url }}">System Demonstrations Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="joint-call-for-workshops">Joint Call for Workshops Proposals</h2>
   The <a href="{{ '/calls/workshops/' | relative_url }}">Joint Call for Workshops Proposals 2027</a> has been published. Please note that this is a joint call for EACL, COLING, NAACL, ACL, and EMNLP, and it will be the only one for this conference cycle. Check it out for important dates and submission guidelines.
 </div>
