@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="student-research-workshop-call-for-papers">Student Research Workshop Call for Papers</h2>
+  The <a href="{{ '/calls/srw/' | relative_url }}">Student Research Workshop Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="system-demonstrations-call-for-papers">System Demonstrations Call for Papers</h2>
   The <a href="{{ '/calls/demos/' | relative_url }}">System Demonstrations Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
 </div>
