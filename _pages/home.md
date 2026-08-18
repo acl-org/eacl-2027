@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="joint-call-for-tutorials">Joint Call for Tutorial Proposals</h2>
+  The <a href="{{ '/calls/tutorials/' | relative_url }}">Joint Call for Tutorial Proposals 2027</a> has been published. Please note that this is a joint call for EACL, NAACL, and COLING. Check it out for important dates and submission guidelines.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="student-research-workshop-call-for-papers">Student Research Workshop Call for Papers</h2>
   The <a href="{{ '/calls/srw/' | relative_url }}">Student Research Workshop Call for Papers</a> has been published. Check it out for important dates and submission guidelines.
 </div>

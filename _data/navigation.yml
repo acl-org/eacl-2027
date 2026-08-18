@@ -18,6 +18,8 @@ calls:
         url: /calls/industry/
       - title: "System Demonstrations"
         url: /calls/demos/
+      - title: "Tutorials"
+        url: /calls/tutorials/
       - title: "Workshops"
         url: /calls/workshops/
       - title: "Student Research Workshop"
