@@ -94,7 +94,8 @@ Tutorial decisions along with reviews will be released by **November 25th, 2026*
 - Ivan Vulić
 
 **NAACL**
-- TBA
+- Shafiq Joty, Salesforce Research, NTU
+- Tiago Torrent, Federal University of Juiz de Fora, CNPq
 
 **COLING**
 - Michael Roth, University of Technology Nuremberg
