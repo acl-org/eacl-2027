@@ -89,9 +89,9 @@ Tutorial decisions along with reviews will be released by **November 25th, 2026*
 ## Tutorial Chairs
 
 **EACL**
-- Ivan Habernal
-- Suzan Verberne
-- Ivan Vulić
+- Ivan Habernal, Ruhr University Bochum
+- Suzan Verberne, Leiden University
+- Ivan Vulić, Google DeepMind
 
 **NAACL**
 - Shafiq Joty, Salesforce Research, NTU
@@ -101,4 +101,4 @@ Tutorial decisions along with reviews will be released by **November 25th, 2026*
 - Michael Roth, University of Technology Nuremberg
 - Leonie Weissweiler, Leipzig University
 
-If you have any questions related to tutorial proposals, you can reach us at [eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de](mailto:eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de) or [coling27tutorialchairs@googlegroups.com](mailto:coling27tutorialchairs@googlegroups.com).
+If you have any questions related to tutorial proposals, you can reach us at [eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de](mailto:eacl27-tutorial-chairs@lists.ruhr-uni-bochum.de), [naacl27tutorialchairs@googlegroups.com](mailto:naacl27tutorialchairs@googlegroups.com) or [coling27tutorialchairs@googlegroups.com](mailto:coling27tutorialchairs@googlegroups.com).
