@@ -39,7 +39,7 @@ Papers describing accepted demonstrations will be published in a companion volum
 ## Important Dates
 
 - Submission opens: 18 August 2026
-- Paper submission deadline: 22 September 2026
+- Paper submission deadline: 23 September 2026
 - Notification of acceptance: 18 December 2026
 - Camera-ready submission: 6 January 2027
 - Main Conference: 9-14 March 2027
