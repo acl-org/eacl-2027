@@ -132,8 +132,7 @@ If you still need help deciding, feel free to reach out to the track chairs.
 
 ## **Volunteer to Review**
 
-Please fill in the form below to express your interest in volunteering as a reviewer for EACL 2027 Industry Track. 
-[https://forms.gle/TT6N2gtuoV5P3oYi6](https://forms.gle/TT6N2gtuoV5P3oYi6)
+The window for expressing interest to volunteer as a reviewer for EACL 2027 Industry Track is now closed as the reviews are in progress.
 
 ## **Chairs and Contact**
 
