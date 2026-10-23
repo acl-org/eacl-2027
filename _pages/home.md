@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="accepted-workshops">Accepted Workshops</h2>
+  The list of workshops accepted at EACL 2027 is now available on the <a href="{{ '/program/workshops/' | relative_url }}">Workshops page</a>. More details about each workshop will be added soon.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="joint-call-for-tutorials">Joint Call for Tutorial Proposals</h2>
   The <a href="{{ '/calls/tutorials/' | relative_url }}">Joint Call for Tutorial Proposals 2027</a> has been published. Please note that this is a joint call for EACL, NAACL, and COLING. Check it out for important dates and submission guidelines.
 </div>
