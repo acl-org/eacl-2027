@@ -42,6 +42,10 @@ attending:
         url: /committees/contact-directory/
 
 program:
+  - title: Programs
+    children:
+      - title: "Workshops"
+        url: /program/workshops/
   - title: Events
     children:
       - title: "Keynote Speakers"
