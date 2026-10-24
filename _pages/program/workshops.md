@@ -6,7 +6,7 @@ sidebar:
   nav: program
 ---
 
-The following workshops have been accepted to be co-located with EACL 2027:
+The following workshops have been accepted as official EACL 2027 workshops:
 
 * The 8th Workshop on African Natural Language Processing (AfricaNLP)
 * SilkRoadNLP 2027: Advancing NLP for the Iranian Language Family
@@ -21,5 +21,6 @@ The following workshops have been accepted to be co-located with EACL 2027:
 * The Third Workshop on Language Models for Low-Resource Languages
 * Slavic NLP 2027
 * SIGHUM (LaTeCH-CLfL) 2027: The 11th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+* International FrameNet Workshop 2027: Frame-Based Language Resources and Large Language Models Revisited (held at a separate venue)
 
 Further details about each workshop (organizers, descriptions, websites, and schedule) will be added soon.
