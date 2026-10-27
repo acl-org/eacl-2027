@@ -1,5 +1,5 @@
 ---
-title: Call for Diversity & Inclusion Subsidies
+title: Call for Diversity, Equity & Inclusion Subsidies
 hide_title: true
 layout: single
 permalink: /calls/d-i-subsidies/
@@ -9,75 +9,83 @@ toc: true
 toc_only: false
 toc_sticky: true
 toc_icon: "cog"
-published: false
+published: true
 ---
 
-## Call for Diversity & Inclusion Subsidies
+<h1>EACL 2027</h1>
+<h2>Call for Diversity, Equity & Inclusion Subsidies</h2>
 
-<div class="notice--danger" markdown="1">
-The application period for EACL 2026 D&I grants is now officially closed. Please note that <strong>we are unable to reopen the application form or accept any late submissions</strong>, including requests sent via email.  
+## Instructions
 
-All available funds for this cycle have been fully committed and allocated. We thank all applicants for their interest and look forward to seeing the community in Rabat.
-</div>
+Applicants should fill out [this form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=o7fREZJeREeD3IMaQ-H5Z3ZQ12KPZi9FpArwNeCRFQFUM05ZTlNJVUhVSjI3VFJLUTVISUlGUTJSWi4u) before **January 10, 2027, 23:59 (UTC-12:00 “Anywhere on Earth”)**.
 
+## Information
 
-### Instructions
+EACL 2027 is providing Diversity, Equity & Inclusion (DEI) funds for registration, caregiving, bandwidth, travel, accommodation, and VPN subsidies. We strongly encourage researchers from developing countries and marginalized communities, students, and researchers with financial hurdles to apply for both subsidies and volunteering opportunities and to maximize their chances of getting their registration fees waived.
 
-Applicants should fill out [this form](https://forms.gle/CRcj82pSTba2WFc37) before **February 7, 2026, 23:59 PM (UTC-12:00 “Anywhere on Earth”)**.
+In addition to DEI subsidies, attendees are encouraged to apply to be a Student Volunteer (the Call for Student Volunteers will be published soon), and might also receive support via the [Student Research Workshop (SRW)]({{ '/calls/srw/' | relative_url }}).
 
-### Information
+## Registration and Membership Subsidies
 
-EACL 2026 is providing D&I funds for registration, caregiving, bandwidth, travel and VPN subsidies. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and [volunteering opportunities](https://2026.eacl.org/calls/student-volunteers/) to maximise their chances of getting their registration fees waived.
+This is for getting a waiver for EACL 2027 registration (this includes virtual registrations for authors). You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you could state:
 
-Please apply for subsidies before **February 7, 2026, 23:59 PM (UTC-12:00 “Anywhere on Earth”)**.
+> * “I have an accepted paper as a first/second/etc author at the main conference. I would like to apply for a registration fee waiver because my fees are not funded by my organisation/institution.”
+> * “I have an accepted paper at an EACL workshop, I live in a developing country [name the country], and I/my institution cannot afford the registration fees.”
+> * “I have a paper accepted at the main conference/workshop and I am an active member of Latinx, Masakhane, North African in NLP, QueerinAI, WNLP, etc.”
 
-### Registration and Membership subsidies
+**Note:** If you are applying for a registration fee waiver, you should not register for the conference until you hear from us about your DEI subsidy application, unless the registration system provides a “pending subsidy application” option.
 
-This is for getting a waiver for EACL 2026 registration. You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you can say:
+## Travel and Accommodation Subsidies
 
-* “I have an accepted paper at the main conference. I would like to apply for a registration fee waiver because my fees are not funded by my organisation/institution.”
-* “I have an accepted paper at an EMNLP Workshop/ the WMT23 Shared Task/ WiNLP23 Workshop, I live in a developing country [name the country] and I/my institution cannot afford the registration fees.”
-* “I have a paper accepted at the main conference/workshop/ and I am an active member of Latinx/Masakhane/North African in NLP/QueerinAI/WNLP.”
+We are also providing travel and accommodation subsidies. Priority will be given to authors, first-time attendees, and individuals from underrepresented communities with financial hurdles.
 
-**Note** that if you are applying for a registration fee waiver, you **SHOULD NOT** register for the conference until you hear from us about your D&I subsidy application. Keep in mind that we will take your justification into account when processing your application.
+If you would like to attend the in-person meeting, please keep in mind that if your waiver application is accepted, accommodation and travel expenses such as flight tickets, hotel receipts, and ground transportation can only be reimbursed *AFTER* the conference and must have receipts submitted.
 
-### Travel and Accommodation Subsidies
+**Note: The ACL does not book travel or accommodation; awardees are responsible for making their own arrangements and for using the funds responsibly.**
 
-We are also providing travel and accommodation subsidies. Priority will be given to authors, first-time attendees and individuals from underrepresented communities with financial hurdles.
+**Important:** We encourage in-person grant recipients to book refundable tickets and accommodations, as if your visa is denied or you are otherwise unable to attend in person, your grant will be null and void. In-person attendance is required for reimbursement of an in-person grant. Virtual registration will be covered if registration fees are included in the grant. The number of accepted applicants and the amount of money subsidised will vary depending on the number of applicants and the funding availability.
 
-If you would like to attend the in-person meeting, please keep in mind that if your waiver application is accepted, accommodations and travel expenses (e.g., flight tickets, hotel receipt, ground transportation) can only be reimbursed after the conference and must have a receipt submitted. **Note: The ACL does not book any of the above grants and it is the awardees are responsible for making their own travel and accommodation arrangements and for using the funds responsibly.**
+Please answer questions regarding whether you have previously attended any \*CL conferences (NAACL, EACL, AACL, ACL, EMNLP and COLING) accurately, as we would like to give all first-time attendees a chance.
 
-The number of accepted applicants and the amount of money subsidised will vary depending on the number of applicants and the funding availability.
+## Caregiving and Accessibility Subsidies
 
-Please answer questions regarding whether you have previously attended any *ACL conferences (NAACL, EACL, AACL, ACL, EMNLP and COLING) accurately as we would like to give all first-time attendees a chance.*
+The ACL does not offer caregiving directly; however, we can reimburse caregiving expenses needed at the time of the conference. You need to provide receipts for your expenses. These can include babysitting, accessibility assistance, transportation costs, or other support required for yourself or your dependents that would ease your participation.
 
-### Caregiving and accessibility subsidies
+If you need personal or technical assistance to access and navigate the conference due to a disability, we can reimburse it. We acknowledge that accessibility needs are highly individual to each participant, so please feel free to reach out to us with any issues you might face in this regard. When justifying your caregiving and accessibility subsidy application, you can say, for example: “As a caregiver, I would like to apply for a subsidy of [AMOUNT] USD to take care of my child when I will be presenting my work at the conference.”
 
-The ACL does not offer caregiving directly; however, we can reimburse caregiving expenses needed at the time of the conference. You need to provide receipts for your expenses. These can be babysitting, accessibility assistance, transportation costs, or other support required for yourself or your dependents, which would ease your participation.
+## Bandwidth and VPN Subsidies
 
-If you need any personal or technical assistance to access and navigate the conference due to a disability, we can reimburse it (e.g., if you need assistance in using gather.town due to visual impairment). We acknowledge that accessibility needs are highly individual to each participant, so please feel free to reach out to us with any issues you might face in this regard. When justifying your caregiving and accessibility subsidy application, you can say for example: “As a caregiver, I would like to apply for a subsidy of $$ USD to take care of my child when I will be presenting my work at the conference.”
+We can reimburse bandwidth or VPN expenses for those attending virtually. You need to provide receipts for your expenses. Bandwidth subsidies are for high-speed internet access costs for the duration of the conference only. VPN expenses may be supported if needed for full participation.
 
-### Bandwidth and VPN subsidies
+## Selection Criteria
 
-We can reimburse bandwidth or VPN expenses (for those attending virtually) that you need for the conferences. You need to provide receipts for your expenses. Bandwidth subsidies would be for high-speed internet access costs for the **duration of the conference only**. VPN generally does not cost more than 10 USD per month and could be applied towards participation if you need anonymity to participate completely.
+Applications will be evaluated based on the *submitted materials* and *provided justifications*. Privacy will be respected, and preference will be given to **first-time attendees** and applicants from **underrepresented groups** who are presenting a paper at the main conference (or findings) or at any of the workshops associated with EACL 2027, and those who do not have other means of support.
 
-### Selection Criteria
+## Reimbursement Procedure and Timeline
 
-Applications will be evaluated based on the submitted materials and provided justifications. Privacy will be respected and preference will be given to first-time attendees and applicants from underrepresented groups who are presenting a paper at the main conference or at any of the workshops associated with **EACL 2026**, and those who do not have other means of support.
+Registration and membership fees will be covered directly via a discount code applied at the time of registration. These do not need to be submitted separately for reimbursement.
 
-### Application and Notification Deadlines
+For all other approved subsidies, you will need to submit an expense report along with receipts showing proof of payment. Eligible expenses include:
 
-All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
+* Flights
+* Taxi/rideshare (e.g., Uber)
+* Hotel
+* Food (alcohol is not covered)
+* Childcare
 
-* **Application Deadline:** February 7, 2026
-* **Notification Deadline:** February 16, 2026
+For virtual attendees, eligible expenses include internet or mobile hotspot costs for the duration of the conference.
 
-#### Notification of Acceptance
+Reimbursement for some awardees will also be done during the conference; we will send separate communication regarding this closer to the conference date.
 
-Applicants will be notified on (or before) **February 16, 2026**, which is one week before the EACL 2026 early registration deadline on February 24, 2026. Link to EACL 2026 registration: [https://2026.eacl.org/registration/](https://2026.eacl.org/registration/).
+**Timeline:** Reimbursements are typically processed within 6–8 weeks after the conference.
 
-We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
+## Application and Notification Deadlines
 
-### Contact
+All deadlines are 11:59 pm UTC-12:00 (“anywhere on Earth”).
 
-EACL 2026 Diversity, Equity and Inclusion team: [eacl2026deichairs@gmail.com](mailto:eacl2026deichairs@gmail.com).
+- **Application Deadline:** January 10, 2027
+- **Notification Deadline:** February 4, 2027
+
+## Contact
+
+EACL 2027 Diversity, Equity and Inclusion team: [eacl2027.deichairs@gmail.com](mailto:eacl2027.deichairs@gmail.com).

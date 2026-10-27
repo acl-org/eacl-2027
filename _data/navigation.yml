@@ -24,6 +24,8 @@ calls:
         url: /calls/workshops/
       - title: "Student Research Workshop"
         url: /calls/srw/
+      - title: "Diversity, Equity & Inclusion Subsidies"
+        url: /calls/d-i-subsidies/
 
 committee:
   - title: Committee

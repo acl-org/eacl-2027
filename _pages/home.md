@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="call-for-dei-subsidies">Call for Diversity, Equity & Inclusion Subsidies</h2>
+  The <a href="{{ '/calls/d-i-subsidies/' | relative_url }}">Call for Diversity, Equity & Inclusion Subsidies</a> has been published. Applications are open until January 10, 2027. Check it out for details and application instructions.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="accepted-workshops">Accepted Workshops</h2>
   The list of workshops accepted at EACL 2027 is now available on the <a href="{{ '/program/workshops/' | relative_url }}">Workshops page</a>. More details about each workshop will be added soon.
 </div>
