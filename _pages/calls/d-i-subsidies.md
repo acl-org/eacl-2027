@@ -23,7 +23,7 @@ Applicants should fill out [this form](https://forms.cloud.microsoft/Pages/Respo
 
 EACL 2027 is providing Diversity, Equity & Inclusion (DEI) funds for registration, caregiving, bandwidth, travel, accommodation, and VPN subsidies. We strongly encourage researchers from developing countries and marginalized communities, students, and researchers with financial hurdles to apply for both subsidies and volunteering opportunities and to maximize their chances of getting their registration fees waived.
 
-In addition to DEI subsidies, attendees are encouraged to apply to be a Student Volunteer (the Call for Student Volunteers will be published soon), and might also receive support via the [Student Research Workshop (SRW)]({{ '/calls/srw/' | relative_url }}).
+In addition to DEI subsidies, attendees are encouraged to apply to be a [Student Volunteer]({{ '/calls/student-volunteers/' | relative_url }}), and might also receive support via the [Student Research Workshop (SRW)]({{ '/calls/srw/' | relative_url }}).
 
 ## Registration and Membership Subsidies
 
