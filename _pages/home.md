@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="call-for-student-volunteers">Call for Student Volunteers</h2>
+  The <a href="{{ '/calls/student-volunteers/' | relative_url }}">Call for Student Volunteers</a> has been published. Applications open on November 16, 2026 and close on January 10, 2027. Check it out for details and eligibility.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="call-for-dei-subsidies">Call for Diversity, Equity & Inclusion Subsidies</h2>
   The <a href="{{ '/calls/d-i-subsidies/' | relative_url }}">Call for Diversity, Equity & Inclusion Subsidies</a> has been published. Applications are open until January 10, 2027. Check it out for details and application instructions.
 </div>
