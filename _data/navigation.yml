@@ -26,6 +26,8 @@ calls:
         url: /calls/srw/
       - title: "Diversity, Equity & Inclusion Subsidies"
         url: /calls/d-i-subsidies/
+      - title: "Student Volunteers"
+        url: /calls/student-volunteers/
 
 committee:
   - title: Committee

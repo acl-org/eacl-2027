@@ -295,7 +295,7 @@ To apply for a grant, please submit your application by January 21, 2027 (AoE). 
 * Submission requires a completed Application Form with a few questions and a concise one-page CV (resume).  
 * Travel and accommodations should be arranged independently, regardless of the application outcome.
 
-Authors are encouraged to also apply for other schemes of financial support provided by EACL 2027, including Diversity & Inclusion Subsidies and Student Volunteer Grant.
+Authors are encouraged to also apply for other schemes of financial support provided by EACL 2027, including [Diversity & Inclusion Subsidies]({{ '/calls/d-i-subsidies/' | relative_url }}) and [Student Volunteer Grant]({{ '/calls/student-volunteers/' | relative_url }}).
 
 ## **Contact Information**
 

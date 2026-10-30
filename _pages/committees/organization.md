@@ -199,6 +199,10 @@ h3 + .committee-list {
 
 <div class="heading-divider"></div>
 
+{% if g.name == "Local" %}
+For local organization enquiries, contact the communications team at [iitcomms@iit.demokritos.gr](mailto:iitcomms@iit.demokritos.gr).
+{% endif %}
+
 <div class="committee-list">
   {%- assign _annot = "" -%}
   {%- for p in g.items -%}
