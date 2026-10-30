@@ -62,6 +62,14 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 
 ---
 
+## Local Organization
+
+| Contact | Email | Purpose |
+|---------|-------|---------|
+| **Local Organizing Committee** | [iitcomms@iit.demokritos.gr](mailto:iitcomms@iit.demokritos.gr) | Local organization enquiries (monitored by the communications team) |
+
+---
+
 ## Diversity, Equity & Inclusion
 
 | Contact | Email | Purpose |
