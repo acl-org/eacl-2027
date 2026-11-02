@@ -62,7 +62,7 @@ If you have not yet registered, you may do so by selecting the “Applied for a 
 
 * Student volunteers receive only free conference registration and free ACL membership for the year, and must be responsible for all other costs, such as travel and accommodation.
 * Student volunteers may also apply for the [Diversity & Inclusion (D&I) grant]({{ '/calls/d-i-subsidies/' | relative_url }}), which may help offset additional costs. The application procedures are separate.
-* We plan to notify of acceptance of student volunteer status on January 10, 2027.
+* We plan to notify of acceptance of student volunteer status on January 18, 2027.
 * Student volunteers who do NOT show up to their assigned duties will be charged the full cost after the conference.
 * Student volunteers who do not fulfil 10 hours of service may be charged for a portion or the entirety of their conference benefits.
 
