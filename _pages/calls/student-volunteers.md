@@ -17,6 +17,12 @@ published: true
 
 Join us as a student volunteer at The 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027), taking place March 9–14, 2027 in Athens, Greece. We are seeking dedicated students, both for in-person and online roles, to contribute to the success of this event.
 
+## Important: Student Volunteers and D&I Funding
+
+Students are welcome and encouraged to apply to both the Student Volunteer programme and the Diversity & Inclusion (D&I) grants. However, please note that the two programmes have separate selection processes and timelines. Student Volunteer offers will be communicated first, and applicants should be prepared to accept or decline their offer regardless of the outcome of their D&I application.
+
+In particular, applying as an in-person student volunteer implies that you have the means to cover your travel and accommodation expenses independently, without relying on potential D&I funding. D&I grants are intended to provide additional support, not to be a prerequisite for accepting a Student Volunteer position.
+
 ## Roles and Responsibilities
 
 Volunteer tasks encompass various aspects such as assisting at the registration desk, on-boarding briefs to delegates checking in, problem solving, providing directional support at the conference venue, organizing delegate packs, overseeing poster sessions, and providing AV/technical support, including social media management and aiding with conference events. If you apply and are selected as a virtual volunteer, your roles and responsibilities will be monitoring content on platforms such as Whova, Underline, etc. As a virtual attendee, you will report content issues on publications and report issues to the on-site technical support team. With this knowledge, please make sure you possess the skills to handle such requirements during the conference.
@@ -48,7 +54,7 @@ The selection process for the Student Volunteer Program will involve a careful e
 
 Applicants for the Student Volunteer Program must be full-time students at the undergraduate or graduate level. If feasible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment. Applicants for the Student Volunteer Program should submit the completed application form, where we ask a few questions and a one-page CV (resume). **Students should make travel arrangements and accommodations independent of the results of the application.**
 
-Apply via the following form: **available from November 16**.
+Apply via the following form: https://forms.gle/qfgK45a4cphZipDQ7
 
 **Notification of Acceptance:** Approximately a week from the application closing date, letters of acceptance or denial will be sent out. Approximately 30 days from the conference start date, accepted applications will receive instructions on how to select their volunteer shift.
 
