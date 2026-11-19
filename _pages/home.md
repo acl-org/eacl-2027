@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="visa-invitation-letters">Visa Invitation Letter Request Form Now Available</h2>
+  Participants who need a visa to attend EACL 2027 and require a letter of invitation can now request one through the form on the <a href="{{ '/participants/visa/' | relative_url }}">Visa page</a>.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="acceptance-rates">EACL 2027 Acceptance Rates</h2>
   The PC Chairs have published a news item on the EACL 2027 acceptance rates, with a breakdown of submissions, committed papers, and Main and Findings acceptances. <a href="{{ '/news/acceptance-rates/' | relative_url }}">Read the full post</a>.
 </div>

@@ -42,6 +42,8 @@ attending:
     children:
       - title: Venue
         url: /participants/venue/
+      - title: Visa
+        url: /participants/visa/
       - title: "Contact Directory"
         url: /committees/contact-directory/
 
