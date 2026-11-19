@@ -8,7 +8,7 @@ sidebar:
 
 The following workshops have been accepted as official EACL 2027 workshops. Rooms and times will be announced soon, and further details for some workshops are still being finalized.
 
-## March 13, 2027
+## Saturday, March 13, 2027
 
 ### [CHOMPS: Second Workshop on Confabulations, Hallucinations and Overgenerations in Multilingual and Precision-demanding Scenarios](https://chomps-workshop.github.io/)
 * **Organizers:** Aman Sinha, Chuyuan Li, Raúl Vázquez, Boya Zhang, Timothee Mickus, Nona Naderi, Jörg Tiedemann and Douglas Teodoro
@@ -30,7 +30,7 @@ _More information coming soon._
 
 ***
 
-## March 14, 2027
+## Sunday, March 14, 2027
 
 ### [ArgMining 2027: The 14th Workshop on Argument Mining and Reasoning](https://argmining-org.github.io/)
 * **Organizers:** Debanjan Ghosh, Kamila Gorska, Zlata Kikteva, Priya Pitre, Jodi Schneider, Manfred Stede and Michiel van der Meer
