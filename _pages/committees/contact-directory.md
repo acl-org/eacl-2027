@@ -53,6 +53,7 @@ This page provides a comprehensive list of contact emails for all EACL 2027 trac
 | Contact | Email/Form | Purpose |
 |---------|------------|---------|
 | **Visa Questions** | [iitcomms@iit.demokritos.gr](mailto:iitcomms@iit.demokritos.gr) | Visa-related questions |
+| **Visa Invitation Letters** | [Visa page]({{ '/participants/visa/' | relative_url }}) | Request form for visa invitation letters |
 {% comment %}
 | **Visa Letters (Authors)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSceu1uWn48EB-0-xg9i0VL1wNWbwVd43rk1uIsZfmsR8Khttg/viewform?usp=publish-editor) | Authors needing visa invitation letters |
 | **Visa Letters (Organizers)** | [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfWqVBZBJg4JubC1N15L6t5C2uGDHFMDgiFveOcskuecZzbqQ/viewform?usp=header) | Organizers needing visa invitation letters |
