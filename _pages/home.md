@@ -29,6 +29,11 @@ _Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth")._
 </div>
 
 <div class="notice--info" markdown="1">
+  <h2 id="call-for-bof">Call for Shared Interest and Affinity Group Events (BoF)</h2>
+  The <a href="{{ '/calls/bof/' | relative_url }}">Call for Shared Interest and Affinity Group Events</a> (also known as Birds-of-a-Feather events) has been published. Applications are open until December 30, 2026. Check it out for details and application instructions.
+</div>
+
+<div class="notice--info" markdown="1">
   <h2 id="visa-invitation-letters">Visa Invitation Letter Request Form Now Available</h2>
   Participants who need a visa to attend EACL 2027 and require a letter of invitation can now request one through the form on the <a href="{{ '/participants/visa/' | relative_url }}">Visa page</a>.
 </div>
