@@ -76,29 +76,6 @@ Below you can find the keynote speakers for EACL 2027. The scheduled date/time, 
 
 <div class="speaker-container">
   <div class="speaker-photo">
-    <img src="{{ '/assets/images/speakers/sara_hooker.jpeg' | relative_url }}" alt="Sara Hooker" onerror="this.src='https://placehold.co/150x150?text=Sara'">
-  </div>
-  <div class="speaker-info">
-    <h3 class="speaker-name"><a href="https://www.sarahooker.me/" target="_blank">Sara Hooker</a></h3>
-    
-    <div class="speaker-affiliation">Co-founder, Adaption Labs</div>
-
-    <!--
-    <div class="talk-details">
-      <div class="talk-meta"><strong>Date:</strong> TBD &nbsp; <strong>Time:</strong> TBD &nbsp; <strong>Location:</strong> TBD</div>
-      <div class="talk-title"><strong>Title:</strong> TBD</div>
-      <div class="talk-abstract"><strong>Abstract:</strong> TBD</div>
-    </div>
-    -->
-
-    <p>Sara Hooker is a co-founder of Adaption Labs, which builds intelligence that continuously evolves. Sara leads a large team of AI researchers and engineers that build extremely efficient, adaptable systems. Sara Hooker was previously VP of Research at Cohere and prior to Cohere, she built large systems in computer vision and NLP at Google Deepmind. Her research has been published in top venues including Nature, NeurIPS, ICML, ACL, ICLR, EMNLP, MLSys and has been recognized with honors such as the ACL Best Paper Award and CACM front cover for her work on the Hardware Lottery. Her work has been featured in mainstream news outlets including Techcrunch, New York Times, Washington Post, Axios, MIT Technology, The Atlantic.</p>
-  </div>
-</div>
-
-
-
-<div class="speaker-container">
-  <div class="speaker-photo">
     <img src="{{ '/assets/images/speakers/mor_geva.jpg' | relative_url }}" alt="Mor Geva" onerror="this.src='https://placehold.co/150x150?text=Mor'">
   </div>
   <div class="speaker-info">
