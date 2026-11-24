@@ -7,7 +7,7 @@ main:
   - title: "Participant Information"
     url: /participants/venue/
   - title: "Program"
-    url: /program/keynotes/
+    url: /program/
 
 calls:
   - title: Call for
